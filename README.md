@@ -1,2 +1,5 @@
-# QFIRDesigner
-A cross-platform application for basic FIR filter design. 
+# QIIRDesigner
+Yet another  cross-platform application for basic *IIR (Infinite Impulse Response) filter design* written in modern C++.   
+
+### 
+
